@@ -5,3 +5,4 @@
 - [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
