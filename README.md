@@ -7,3 +7,4 @@
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 - [위장](https://bokki.org/code-test/js-%ec%9c%84%ec%9e%a5/)
+- [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
