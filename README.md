@@ -9,3 +9,4 @@
 - [위장](https://bokki.org/code-test/js-%ec%9c%84%ec%9e%a5/)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
