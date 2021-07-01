@@ -10,3 +10,4 @@
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
+- [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
