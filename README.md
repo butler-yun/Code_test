@@ -16,3 +16,4 @@
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
