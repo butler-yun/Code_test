@@ -18,3 +18,4 @@
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
