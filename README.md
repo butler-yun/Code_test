@@ -19,3 +19,4 @@
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
