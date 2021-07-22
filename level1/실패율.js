@@ -1,4 +1,5 @@
 function solution(N, stages) {
+    
     const failRate = {};
     
     for (let i = 0; i < N; i += 1) {
@@ -9,7 +10,6 @@ function solution(N, stages) {
         // 실패율 계산
         // 1/8, 3/7, 2/4, 1/2, 0/1
         failRate[i+1] =  x / y; 
-        
     };
     
     // failRate 객체의 실패율 값을 기준으로 내림차순으로 정렬하고 키 값을 result 변수에 담음. 
