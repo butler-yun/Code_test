@@ -30,3 +30,4 @@
 - [정수 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
 - [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
 - [1차 - 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+- [1차 - 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
