@@ -32,3 +32,4 @@
 - [1차 - 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 - [1차 - 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)
+- [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
