@@ -33,3 +33,4 @@
 - [1차 - 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 - [1주차](https://programmers.co.kr/learn/courses/30/lessons/82612)
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
